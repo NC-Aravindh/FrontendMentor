@@ -27,19 +27,17 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-##Screenshots
- Desktop: ![alt text](image.png)
- Mobile: ![alt text](image-1.png)
+## Screenshots
+ ### Desktop: ![alt text](image.png)
+ ### Mobile: ![alt text](image-1.png)
 
- ##Links
+## Links
   - Code: https://github.com/NC-Aravindh/FrontendMentor/tree/main/Newsletter%20Sign%20Up%20Page
   - Live Demo: https://nc-aravindh.github.io/FrontendMentor/Newsletter%20Sign%20Up%20Page/
 
-###My Process
-
-##Built With:
+## Built With:
 
   - HTML5
   - TailWind CSS
 
- ##Author (Aravindh NC)
+## Author - (Aravindh NC)
