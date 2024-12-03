@@ -6,9 +6,10 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Links](#links)
-- [Built with](#built-with)
+- [My process](#my-process)
+  - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
