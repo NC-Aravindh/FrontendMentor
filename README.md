@@ -6,10 +6,9 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -27,9 +26,10 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-## Screenshots
- ### Desktop: ![alt text](image.png)
- ### Mobile: ![alt text](image-1.png)
+## Screenshot
+ ### Desktop: ![image](https://github.com/user-attachments/assets/103d862e-bd7f-4c2f-a9df-e6234f17d3e1)
+ ### Mobile: ![image](https://github.com/user-attachments/assets/41ca93aa-7fd5-45d7-b68a-016b985a096a)
+
 
 ## Links
   - Code: https://github.com/NC-Aravindh/FrontendMentor/tree/main/Newsletter%20Sign%20Up%20Page
