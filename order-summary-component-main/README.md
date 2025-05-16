@@ -28,16 +28,15 @@ Users should be able to:
 
 ### Screenshot
  ### Desktop: ![alt text](image.png)
- ### Mobile: ![alt text](image-1.png)
+ ### Mobile: ![alt text](image1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/NC-Aravindh/FrontendMentor/tree/main/order-summary-component-main)
+- Live Site URL: [Live Demo](https://nc-aravindh.github.io/FrontendMentor/order-summary-component-main/)
 
 ## My process
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
