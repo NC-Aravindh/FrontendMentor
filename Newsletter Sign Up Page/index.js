@@ -1,12 +1,6 @@
 const introPage = document.getElementById("intro-page");
 const successPage = document.getElementById("success-page");
 
-// document.getElementById("submit").addEventListener("click", (event) => {
-//   event.preventDefault();
-//   introPage.setAttribute("class", "hidden");
-//   successPage.classList.remove('hidden')
-// });
-
 function submitForm(event) {
   event.preventDefault();
   const mailId = event.target[0].value;

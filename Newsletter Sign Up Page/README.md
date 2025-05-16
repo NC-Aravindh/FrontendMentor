@@ -39,5 +39,6 @@ Users should be able to:
 
   - HTML5
   - TailWind CSS
+  - Javascript
 
 ## Author - (Aravindh NC)

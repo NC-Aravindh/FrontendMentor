@@ -1,44 +1,59 @@
-# Frontend Mentor - Newsletter sign-up form with success message solution
+# Frontend Mentor Challenges
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+A collection of my solutions to various Frontend Mentor challenges. This repository showcases my front-end development skills through practical projects that focus on real-world designs and user experiences.
 
-## Table of contents
+## About Frontend Mentor
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+Frontend Mentor provides professional designs for developers to practice their HTML, CSS, and JavaScript skills. Each challenge includes design files, assets, and specifications to build projects that look as close to the design as possible.
 
-## Overview
+## Projects
 
-### The challenge
+Each project is contained in its own directory with:
+* Source code
+* Screenshots of my solution
+* Link to the live demo
+* Brief description of challenges and techniques used
 
-Users should be able to:
+## Featured Solutions
 
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+*(The following list will grow as I complete more challenges)*
 
-## Screenshot
- ### Desktop: ![image](https://github.com/user-attachments/assets/103d862e-bd7f-4c2f-a9df-e6234f17d3e1)
- ### Mobile: ![image](https://github.com/user-attachments/assets/41ca93aa-7fd5-45d7-b68a-016b985a096a)
+1. **[Newsletter sign-up form]**
+   * [Live Demo](https://nc-aravindh.github.io/FrontendMentor/Newsletter%20Sign%20Up%20Page/)
+   * Technologies: HTML, TailWindCSS, JavaScript
+   * Key features: Responsive design, form validation
 
+2. **[Order Component]**
+   * [Live Demo](https://nc-aravindh.github.io/FrontendMentor/order-summary-component-main/)
+   * Technologies: HTML5, CSS
 
-## Links
-  - Code: https://github.com/NC-Aravindh/FrontendMentor/tree/main/Newsletter%20Sign%20Up%20Page
-  - Live Demo: https://nc-aravindh.github.io/FrontendMentor/Newsletter%20Sign%20Up%20Page/
+## Technologies Used
 
-## Built With:
+* HTML5
+* CSS
+* JavaScript
+* TailWind CSS
+* Responsive design principles
+* Accessibility best practices
 
-  - HTML5
-  - TailWind CSS
+## My Process
 
-## Author - (Aravindh NC)
+For each challenge, I typically follow these steps:
+1. Review the design and plan the component structure
+2. Set up the basic HTML structure
+3. Implement styles with a mobile-first approach
+4. Add interactivity with JavaScript/React
+5. Test across different browsers and screen sizes
+6. Refine the solution based on feedback
+
+## What I've Learned
+
+This repository documents my growth as a front-end developer. Each project has helped me improve specific skills such as:
+* Creating pixel-perfect implementations from designs
+* Writing clean, maintainable code
+* Implementing responsive layouts
+* Solving UI/UX challenges
+
+## Acknowledgments
+
+Thanks to Frontend Mentor for providing these challenges and to the community for their feedback and support.
